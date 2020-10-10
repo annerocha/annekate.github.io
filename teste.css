@@ -1,0 +1,42 @@
+body{
+    background-color: #FFE4C4;
+}
+
+header{
+    background-color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-emphasis-color: white;
+    }
+
+.alert{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    background-color: coral;
+    margin-bottom: 5px;
+}
+.questions{
+    color: darkgray;
+    padding-top: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+hr{
+    width: 70%;
+    align-self: center;
+    border-color: indianred;
+    border-style: dashed;
+    height: 2px;
+
+}
+.respostas{
+    padding-top: 30px;
+    display: inline-block;
+    text-align: left;
+}
